@@ -1,0 +1,15 @@
+{
+  "name": "unfold-master",
+  "version": "1.0.0",
+  "description": "Thank you for using our template!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.1.4",
+    "snowpack": "^3.8.8"
+  }
+}
