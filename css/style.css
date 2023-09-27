@@ -217,7 +217,11 @@ a:hover {
   text-transform: uppercase;
   font-weight: 900;
 }
-
+.certificates-sololearn{
+  display: flex;
+  flex-direction: row;
+  margin-left: 12rem;
+}
 .btn:active,
 .btn:focus {
   outline: none;
